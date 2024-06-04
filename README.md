@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sdivyesh.netlify.app/](https://sdivyesh.netlify.app/)
 
-- 💬 Ask me about **JavaScript, React, Tailwind Css, Scss, jQuery**
+- 💬 Ask me about **JavaScript, React, Tailwind Css, Scss, Next, TypeScript**
 
 - 📫 How to reach me **divyeshsarvaiya999@gmail.com**
 
